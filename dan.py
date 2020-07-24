@@ -1,1 +1,5 @@
-print("I am a encryptedEnigma !!!")
+focused = input(" Are You Focused? ")
+if focused=="yes"
+print("Ready to unleash the geek !!!)
+else:
+    print(" Just Keep Trying !!)
